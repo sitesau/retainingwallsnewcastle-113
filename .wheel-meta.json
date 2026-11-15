@@ -1,0 +1,22 @@
+{
+  "wheel_id": 903,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-113",
+  "project": "retaining-wall-contractors-newcastle-diy-vs-professional-796893",
+  "parent_t1_ref": "retainingwallsnewcastle-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining wall contractors newcastle diy vs professional",
+  "intended_url": "https://sitesau.github.io/retainingwallsnewcastle-113/",
+  "tier": "T2",
+  "writeback_nonce": "1c8b7cacd749c56e",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-newcastle-maintenance-9e2dbd9ba9852f/",
+      "anchor": "retaining wall contractors newcastle maintenance",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
